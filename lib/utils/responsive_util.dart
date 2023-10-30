@@ -1,7 +1,6 @@
 import 'package:flutter/widgets.dart';
 
 class ResponsiveUtil {
-
   static double referenceWidth = 393.0;
   static double referenceHeight = 852.0;
 
@@ -13,12 +12,15 @@ class ResponsiveUtil {
     return MediaQuery.of(context).size.height * (height / referenceHeight);
   }
 
-  static double calculateLeftPosition(BuildContext context, double leftPosition) {
+  static double calculateLeftPosition(
+      BuildContext context, double leftPosition) {
     return MediaQuery.of(context).size.width * (leftPosition / referenceWidth);
   }
 
   static double calculateTopPosition(BuildContext context, double topPosition) {
-    return (MediaQuery.of(context).size.height * (topPosition / referenceHeight)) - 30;
+    return (MediaQuery.of(context).size.height *
+            (topPosition / referenceHeight)) -
+        35;
   }
 
   static double calculateFontSize(BuildContext context, double fontSize) {

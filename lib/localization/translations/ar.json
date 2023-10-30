@@ -1,0 +1,11 @@
+{
+  "welcomeTitle": "مرحبًا بك في يلا!",
+  "welcomeMessage": "كل ما تحتاجه شركتك في منصة واحدة",
+  "loginButtonText": "تسجيل الدخول",
+  "signUpButtonText": "سجّل",
+  "switchLanguageMessage": "Switch to English",
+  "signUpTitleText": "سجّل",
+  "signUpNumberMessageText": "اكتب رقم هاتفك المحمول لإنشاء ملف تعريف",
+  "nextButtonText": "التالي",
+  "signUpNumberHintText": "رقم التليفون"
+}

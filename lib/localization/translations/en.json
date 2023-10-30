@@ -1,0 +1,11 @@
+{
+  "welcomeTitle": "Welcome to Yalla!",
+  "welcomeMessage": "Everything your business needs\nin one platform",
+  "loginButtonText": "LOGIN",
+  "signUpButtonText": "SIGN UP",
+  "switchLanguageMessage": "اذهب الى العربية",
+  "signUpTitleText": "Sign Up",
+  "signUpNumberMessageText": "Type in your mobile number to create\nprofile",
+  "nextButtonText": "Next",
+  "signUpNumberHintText": "Phone number"
+}
